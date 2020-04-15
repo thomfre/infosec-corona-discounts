@@ -10,6 +10,9 @@ Free in April with their #FREEapril offer
 In light of the COVID-19 crisis, Basis Technology is offering free online Autopsy training to everyone.\
 This offer ends May 15, 2020.
 
+[eLearnSecurity - 25% off Blue Team courses](https://forge.elearnsecurity.com/april-blue-team/)\
+Coupon code: BLU-E25 (valid for April)
+
 ## Software
 
 ## Services
@@ -21,4 +24,4 @@ April 15th 2020
 
 ## Contribute
 
-Anything missing? Feel free to submit a pull request!
+Anything missing? Or wrong? Feel free to submit a pull request or an issue!
