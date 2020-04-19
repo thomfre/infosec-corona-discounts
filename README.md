@@ -19,6 +19,9 @@ Get a Free GIAC Certification Attempt through April 30 with your OnDemand course
 [PentesterAcademy](https://www.pentesteracademy.com/pricing)\
 70% off annual price
 
+[Hacker House](https://hacker.house/training/)\
+Launch deal + additional discount with code: KEEPCALMHACKON
+
 [Whizlabs](https://www.whizlabs.com/)\
 Stay Safe & Learn from Home, 50% off sitewide with coupon code WHIZSITE50
 
