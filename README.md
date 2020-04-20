@@ -11,7 +11,8 @@ In light of the COVID-19 crisis, Basis Technology is offering free online Autops
 This offer ends May 15, 2020.
 
 [eLearnSecurity](https://forge.elearnsecurity.com/april-blue-team/)\
-25% off Blue Team courses with coupon code BLU-E25 (valid for April)
+25% off Blue Team courses with coupon code BLU-E25 (valid for April)\
+:free: Free barebone edition of Penetration Testing Student (PTS) course when you register on [EH-Net](https://www.ethicalhacker.net/register/)
 
 [SANS](https://www.sans.org/ondemand/specials)\
 Get a Free GIAC Certification Attempt through April 30 with your OnDemand course purchase
