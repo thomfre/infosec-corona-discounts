@@ -38,11 +38,11 @@ Removing trail limits to help businesses work securely from home - 6 months free
 
 ## Conferences (virtual)
 
-:free: [All The Talks](https://live.allthetalks.org/)\
-April 15th 2020
-
 :free: [HAVOC](https://havoc.hackersacademy.com/)\
 April 21st and April 22nd
+
+:free: [DerpCon](https://derpcon.io/index.html\
+April 30th - May 1st
 
 ## Contribute
 
