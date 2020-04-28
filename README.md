@@ -14,6 +14,9 @@ This offer ends May 15, 2020.
 25% off Blue Team courses with coupon code BLU-E25 (valid for April)\
 :free: Free barebone edition of Penetration Testing Student (PTS) course when you register on [EH-Net](https://www.ethicalhacker.net/register/)
 
+:free: [ICSI](https://www.icsi.co.uk/courses/icsi-cnss-certified-network-security-specialist-covid-19)\
+Free Certified Network Security Specialist course with code #StaySafeHome until May 31st 2020
+
 [SANS](https://www.sans.org/ondemand/specials)\
 Get a Free GIAC Certification Attempt through April 30 with your OnDemand course purchase
 
@@ -25,6 +28,9 @@ Launch deal + additional discount with code: KEEPCALMHACKON
 
 [Whizlabs](https://www.whizlabs.com/)\
 Stay Safe & Learn from Home, 50% off sitewide with coupon code WHIZSITE50
+
+:free: [Springer Nature](https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960)\
+Free books - [script to download all in this Tweet](https://twitter.com/netsecfocus/status/1254406844824653825)
 
 [Pearson](https://www.pearsonitcertification.com/store/browse/books)\
 Buy 2+, save 55% on books and eBooks through April 30th
